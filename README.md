@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello there!
+My name is Santi and I like to program, I mostly like working on web apps although I am currently trying to make an android app
+
+[![roadmap.sh](https://roadmap.sh/card/tall/684504bc846bd2eeed457aba?variant=dark)](https://roadmap.sh)
 
 <!--
 **Santiago4unos/Santiago4unos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
